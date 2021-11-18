@@ -26,10 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzair657&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=kareem983&show_icons=true&theme=radical " align="left" width="460"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair657&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair657&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/uzair657)
 
+
+
+###Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
