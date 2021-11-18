@@ -1,5 +1,5 @@
 
-### Hi there, I'm Uzair Ahmad 👋👋
+<h1 align="center"> Hi there, I'm  Uzair Ahmad 👋👋 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&color=%2322C0F7&size=22&center=true&vCenter=true&lines=Always+Learning+new+things;Self-taught++programmer;Student!!!"></a>
 </p>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=kareem983&show_icons=true&theme=radical " align="left" width="460"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uzair657&show_icons=true&theme=radical " align="left" width="460"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair657&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/uzair657)
