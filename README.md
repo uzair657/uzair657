@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzair657&show_icons=true&theme=radical " align="left" width="460"/>
 <a href="https://github.com/uzair657/">
 <img src="https://github-readme-stats.vercel.app/api?username=uzair657&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" align="left" width="450"/>
 </a>
