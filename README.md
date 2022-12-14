@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<img  src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbookPro.svg" width="312px" heigth="188px" />
+![image](https://user-images.githubusercontent.com/113003602/206840652-da0393a2-bdcf-485a-9fbd-a1994bc30275.png)
   <br/>
   <br/>
   <br/>
