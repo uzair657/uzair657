@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 <h2 align = "left"> About Me</h2>
 
-🎓 Computer Science graduate from NCBA&E 2022.  
+🎓 Computer Science graduate 2022.  
 📌 Lives in Sargodha, Pakistan.   
 🧠 Have a Problem Solving Skills.
  - Interested in Software Development.
