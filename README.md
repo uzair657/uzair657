@@ -47,10 +47,7 @@ Here are some ideas to get you started:
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair657&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515)](https://github.com/uzair657)
 
-<br />
-<br />
 <br />
 
 <p align="center">
