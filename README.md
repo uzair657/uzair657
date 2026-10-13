@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 🧠 Have a Problem Solving Skills.
  - Interested in Software Development.
  - Android Development ( Java)
+ - IOS Development (Flutter , Swift UI)
  - OOP Concepts and Design Patterns.
  - Good knowledge in Web Frontend.
  - Strong Knowledge of java,JavaScript,C# Programming Languages.
